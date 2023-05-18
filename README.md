@@ -3,8 +3,8 @@
 Data Analysis for a food delivery business based in Ireland ‘Happy Deliveries.’
 
 Two datasets were provided:
-  -- orders: Contains details of orders placed with Happy Deliveries from 2021 & 2022.
-  -- customers: Loyalty card customers of Happy Deliveries which contains customer details.
+orders: Contains details of orders placed with Happy Deliveries from 2021 & 2022.
+customers: Loyalty card customers of Happy Deliveries which contains customer details.
   
 Taskes:
 Create data visulization for the following questions:
