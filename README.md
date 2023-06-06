@@ -23,6 +23,3 @@ Data preparation
 Data analysis
 
 Conclusion
-
-
-. 
